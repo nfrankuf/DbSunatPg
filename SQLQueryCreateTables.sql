@@ -1,2 +1,4 @@
 
-CREATE TABLE 
+CREATE TABLE Table01TipoDocumento(
+
+)
