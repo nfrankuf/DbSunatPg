@@ -12,3 +12,4 @@ CREATE TABLE Table25CodigoUNSPSC(
 	CodUns		char(8),
 	GlosaUns	varchar(255)
 )
+
